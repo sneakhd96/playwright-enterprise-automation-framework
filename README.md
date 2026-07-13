@@ -6,14 +6,11 @@ A reusable Playwright + TypeScript automation framework demonstrating enterprise
 
 ## Features
 
-- Playwright with TypeScript
-- Mailosaur email integration
-- Financial business rule validation
-- Reusable helper classes
-- Environment variable management
-- HTML test reports
-- GitHub Actions CI/CD
-- Modular project structure
+- **9 Automated Tests**
+- **2 UI Tests**
+- **3 API Tests**
+- **3 Financial Validation Tests**
+- **1 Email Automation Test**
 
 ---
 
@@ -115,12 +112,13 @@ GitHub Actions automatically:
 - HTML reporting
 
 ### Version 2.0 
-- End-to-end account verification workflow
-- Password reset automation
-- OTP email automation
-- Public demo application integration
-- API validation
-- Docker support
+- Executable Gherkin (Cucumber) Integration
+- Password Reset Workflow
+- OTP Authentication Workflow
+- Multi-Environment Configuration
+- Docker Support
+- Parallel Test Optimization
+- Advanced Reporting
 ---
 
 ## Author
